@@ -1,0 +1,8 @@
+ORLANDO TRIP ITINERARY 2026
+
+Extraia todos os arquivos e abra index.html no navegador.
+Para hospedar no GitHub Pages, envie o conteudo desta pasta para o repositorio, mantendo index.html na raiz e a pasta assets intacta.
+
+As fotos estao incluidas. Mapas do Google e fontes online precisam de internet.
+Edite data.js para alterar o roteiro; style.css para alterar o visual.
+As fontes originais das imagens estao em images.js e nos detalhes do aplicativo.
